@@ -1,33 +1,40 @@
-# PROJECTNAME
+# Small Office/Home Office (SOHO) lab
 
-# Provide screenshots <---
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Small Office/Home Office project was build from scratch and is designed to serve three separate LANs in one entity. It is created using Cisco's Packet Tracer and is fully operational.
+Since I am still on my path to the CCNA 200-301 v1.1, I used a YouTube video as a referrence to guide me.
+This project helped me a lot in understanding CCNA concepts and makes the further learning process easier and more clear.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- The process of subnetting.
+- Network address, host range, and broadcast address.
+- Configuring Switch and Router's ports using the CLI.
+- What is VLAN and how it is configured.
+- What is Trunk and how it is configured.
+- DHCP configuration.
+- General familiarity of the process configuring LANs.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Packet Tracer
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+0. Scenario:
+<img width="945" alt="0-scenario" src="https://github.com/user-attachments/assets/08770949-4d52-4b54-b032-19e6f42c3d84" />
 
-Example below.
+1. Complete lab
+<img width="905" alt="1-complete" src="https://github.com/user-attachments/assets/aeec7e2f-fb3b-4233-9a10-fdd8cbe68fab" />
 
-*Ref 1: Network Diagram*
+2. Connectivity test (ping, wired) from PC1 to PC0.
+<img width="809" alt="2-pc1-ping-pc0" src="https://github.com/user-attachments/assets/37ff913f-ec72-49a4-95a7-c853478d4e8b" />
+
+3. Smartphone0 to Laptop2 (wireless connection)
+<img width="899" alt="5-smart0-to-l2" src="https://github.com/user-attachments/assets/461d902b-592e-4f19-b983-184b7e47145b" />
+
+4. Switch configuration:
+<img width="521" alt="3-switch-config" src="https://github.com/user-attachments/assets/99e3aed6-9762-4c5f-9805-e2a4502d302e" />
+

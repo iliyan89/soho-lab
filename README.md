@@ -4,7 +4,7 @@
 ## Objective
 
 This Small Office/Home Office project was build from scratch and is designed to serve three separate LANs in one entity. It is created using Cisco's Packet Tracer and is fully operational.
-Since I am still on my path to the CCNA 200-301 v1.1, I used a YouTube video as a referrence to guide me.
+Since I am still on my path to the CCNA 200-301 v1.1, I used a YouTube content to guide me.
 This project helped me a lot in understanding CCNA concepts and makes the further learning process easier and more clear.
 
 ### Skills Learned
@@ -38,3 +38,6 @@ This project helped me a lot in understanding CCNA concepts and makes the furthe
 4. Switch configuration:
 <img width="521" alt="3-switch-config" src="https://github.com/user-attachments/assets/99e3aed6-9762-4c5f-9805-e2a4502d302e" />
 
+5. Router configuration:
+<img width="524" alt="4-router-config-1" src="https://github.com/user-attachments/assets/0aa0fa5a-adc6-4280-b548-99ac8e9c5565" />
+<img width="523" alt="4-router-config-2" src="https://github.com/user-attachments/assets/e3350974-d918-428c-b9b5-96c50d7aa3d8" />

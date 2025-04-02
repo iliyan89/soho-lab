@@ -5,7 +5,7 @@
 
 This Small Office/Home Office project was build from scratch and is designed to serve three separate LANs in one entity. It is created using Cisco's Packet Tracer and is fully operational.
 Since I am still on my path to the CCNA 200-301 v1.1, I used a YouTube content to guide me.
-This project helped me a lot in understanding CCNA concepts and makes the further learning process easier and more clear.
+This project helped me a lot in understanding fundamental CCNA concepts and makes the further learning process easier and more clear.
 Note: this project can be downloaded and tested on your own.
 
 ### Skills Learned
